@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- XML de respues de un webservice para comprobar si un usuario tiene permisos de grupos
+		parámetros en la url para obtener el xml: (mejor mandarlo por una petición post)
+			- user(login del usuario): htttp://blablabla.com/blalbaba/type=consulta_permiso_grupos&user=login(login del usuario)
+	-->
+<output servletname="CheckGroupPermission" content="text/xml">
+    <result status="ERROR" />
+    <usuario login="Usuario no encontrado"></usuario>
+</output>

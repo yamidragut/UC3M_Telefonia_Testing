@@ -1,0 +1,571 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Consumos grupo
+		parámetros en la url para obtener el xml:
+			- user(login del usuario): htttp://blablabla.com/blalbaba/type=consumos_grupo&user=login(login del usuario)
+	-->
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+<titulo>Consumos Grupo UC3M</titulo>
+<link href="http://www.uc3m.es" ></link>
+<login>esarasol</login> <!-- Para comprobar que es el usuario que necesitabamos -->	
+
+
+<fijo>    
+    <organica name="GD30 - DPTO DE ECONOMIA">	
+		<periodo name="Septiembre 2012" total_periodo="837.35">
+			<entry>
+				<numero>916249581</numero>  
+				<usuario>LOBO ALEU, JOSE FELIX</usuario>
+				<tarifa name="Fijos">0.23</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.98</total>
+			</entry>			
+			<entry>
+				<numero>916249651</numero>  
+				<usuario>MORENO RUIZ, DIEGO</usuario>
+				<tarifa name="Fijos">0.64</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>8.39</total>
+			</entry>			
+			<entry>
+				<numero>916249652</numero>  
+				<usuario>10.0.27 (GETAFE) / 9.0.42 (GETAFE) / ECCLES, PETER / MARIN GALLARDO, CARLOS / OPAZO BRETON, MAGDALENA / PERI, ALESSANDRO</usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>
+			<entry>
+				<numero>916249646</numero>  
+				<usuario>ALONSO BORREGO, CESAR</usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>
+			<entry>
+				<numero>916249688</numero>  
+				<usuario>ROMERO MEDINA, ANTONIO</usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>
+			<entry>
+				<numero>916249749</numero>  
+				<usuario>COLOMBATTI PINTO, ALFREDO JOSE / CRESPO RODRIGUEZ, ARANZAZU</usuario>
+				<tarifa name="Fijos">0.17</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.93</total>
+			</entry>
+			<entry>
+				<numero>916249752</numero>  
+				<usuario>9.0.44 / 9.0.43 / 9.0.41 / 6.0.12 / 9.0.45 (GETAFE)</usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>			
+			<entry>
+				<numero>916249753</numero>  
+				<usuario>RUBINI, LORIS</usuario>
+				<tarifa name="Fijos">2.54</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>10.30</total>
+			</entry>
+			<entry>
+				<numero>916249754</numero>  
+				<usuario>DELGADO GONZALEZ, MIGUEL ANGEL</usuario>
+				<tarifa name="Fijos">0.17</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0.81</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>10.73</total>
+			</entry>
+			<entry>
+				<numero>916249781</numero>  
+				<usuario>DESMET, KLAUS</usuario>
+				<tarifa name="Fijos">0.29</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0.88</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>8.93</total>
+			</entry>
+			<entry>
+				<numero>916249791</numero>  
+				<usuario>GONZALO MUÑOZ, JESUS</usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>
+			<entry>
+				<numero>916249804</numero>  
+				<usuario>GUNES, SERIFE BASAK / ORTE RAMIREZ, MANUEL DE</usuario>
+				<tarifa name="Fijos">0.01</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.77</total>
+			</entry>			
+			<entry>
+				<numero>916249845</numero>  
+				<usuario>TAAMOUTI, ABDERRAHIM</usuario>
+				<tarifa name="Fijos">0.33</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">16.45</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">2.07</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>28.61</total>
+			</entry>
+			<entry>
+				<numero>916249853</numero>  
+				<usuario>FAX LOPEZ ARANGUREN (GETAFE)</usuario>
+				<tarifa name="Fijos">0.01</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0.58</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>8.35</total>
+			</entry>
+			<entry>
+				<numero>916249861</numero>  
+				<usuario> </usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>
+			<entry>
+				<numero>916249863</numero>  
+				<usuario>DELGADO FERNANDEZ, NATALIA</usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>
+			<entry>
+				<numero>916249875</numero>  
+				<usuario>PROFESORES ASOCIADOS ECON. (COLMENAREJO)</usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>			
+			<entry>
+				<numero>916249881</numero>  
+				<usuario> </usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>
+			<entry>
+				<numero>916249888</numero>  
+				<usuario>ARIAS GALLO, NURIA MARIA / CERDA SUAREZ, LUIS </usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>
+			<entry>
+				<numero>918561271</numero>  
+				<usuario>FAX MIGUEL DE UNAMUNO (COLMENAREJO)</usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>
+			<entry>
+				<numero>918561346</numero>  
+				<usuario>PENA IZQUIERDO, JORGE</usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>					
+		</periodo>
+	</organica>
+	
+    
+	<organica name="LU25 - DPTO DE TELEMÁTICA">	
+		<periodo name="Septiembre 2012" total_periodo="833.4">
+			<entry>
+				<numero>916249581</numero>  
+				<usuario>LOBO ALEU, JOSE FELIX</usuario>
+				<tarifa name="Fijos">0.23</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.98</total>
+			</entry>			
+			<entry>
+				<numero>916249317</numero>  
+				<usuario>JIANG, MING-JIN</usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0.41</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>8.17</total>
+			</entry>
+			<entry>
+				<numero>916249320</numero>  
+				<usuario>FAX LOPEZ ARANGUREN (GETAFE)</usuario>
+				<tarifa name="Fijos">0.1</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.77</total>
+			</entry>
+			<entry>
+				<numero>916249328</numero>  
+				<usuario>WATANABE WATANABE, MAKOTO</usuario>
+				<tarifa name="Fijos">0.04</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0.25</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0.16</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>8.21</total>
+			</entry>			
+			<entry>
+				<numero>916249329</numero>  
+				<usuario>LI, YUNRONG / YILDIZPARIAK, ANIL</usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>
+			<entry>
+				<numero>916249331</numero>  
+				<usuario>BHASKAR , VENKATARAMAN / MARHUENDA </usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>
+			<entry>
+				<numero>916249365</numero>  
+				<usuario>AGUIAR WICHT, LUIS / GARCIA GONZALEZ, DANIEL / MARTIN RODRIGUEZ, MARIA</usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>
+			<entry>
+				<numero>916249366</numero>  
+				<usuario>CELENTANI, MARCO</usuario>
+				<tarifa name="Fijos">0.02</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.77</tarifa>
+				<total>7.77</total>
+			</entry>
+			<entry>
+				<numero>916249367</numero>  
+				<usuario>ALBA RAMIREZ, ALFONSO</usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>			
+			<entry>
+				<numero>916249546</numero>  
+				<usuario>CARDOSO-MARTA PINTO-MACHADO, MATILDE</usuario>
+				<tarifa name="Fijos">0.03</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.79</total>
+			</entry>
+			<entry>
+				<numero>916249570</numero>  
+				<usuario>MORA VILLARRUBIA, RICARDO</usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>
+			<entry>
+				<numero>916249571</numero>  
+				<usuario>SAN JUAN MESONADA, CARLOS</usuario>
+				<tarifa name="Fijos">0.04</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.80</total>
+			</entry>
+			<entry>
+				<numero>916249576</numero>  
+				<usuario>FERREIRA GARCIA, JOSE LUIS</usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>
+			<entry>
+				<numero>916249577</numero>  
+				<usuario>VELASCO GOMEZ, CARLOS</usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>			
+			<entry>
+				<numero>916249580</numero>  
+				<usuario>15.2.16 (GETAFE) </usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>
+			<entry>
+				<numero>916249646</numero>  
+				<usuario>KOCHARKOV, GEORGI KIRILOV / WANG, XUEXIN</usuario>
+				<tarifa name="Fijos">0.03</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.79</total>
+			</entry>
+			<entry>
+				<numero>916249648</numero>  
+				<usuario>KUJAL, PRAVEEN</usuario>
+				<tarifa name="Fijos">0.73</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>8.49</total>
+			</entry>
+			<entry>
+				<numero>916249649</numero>  
+				<usuario>PONCE, CARLOS ALBERTO JOSE</usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>
+			<entry>
+				<numero>916249651</numero>  
+				<usuario>MORENO RUIZ, DIEGO</usuario>
+				<tarifa name="Fijos">0.64</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>8.39</total>
+			</entry>			
+			<entry>
+				<numero>916249652</numero>  
+				<usuario>10.0.27 (GETAFE) / 9.0.42 (GETAFE) / ECCLES, PETER / MARIN GALLARDO, CARLOS / OPAZO BRETON, MAGDALENA / PERI, ALESSANDRO</usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>
+			<entry>
+				<numero>916249646</numero>  
+				<usuario>ALONSO BORREGO, CESAR</usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>
+			<entry>
+				<numero>916249688</numero>  
+				<usuario>ROMERO MEDINA, ANTONIO</usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>
+			<entry>
+				<numero>916249749</numero>  
+				<usuario>COLOMBATTI PINTO, ALFREDO JOSE / CRESPO RODRIGUEZ, ARANZAZU</usuario>
+				<tarifa name="Fijos">0.17</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.93</total>
+			</entry>
+			<entry>
+				<numero>916249752</numero>  
+				<usuario>9.0.44 / 9.0.43 / 9.0.41 / 6.0.12 / 9.0.45 (GETAFE)</usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>			
+			<entry>
+				<numero>916249753</numero>  
+				<usuario>RUBINI, LORIS</usuario>
+				<tarifa name="Fijos">2.54</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>10.30</total>
+			</entry>
+			<entry>
+				<numero>916249754</numero>  
+				<usuario>DELGADO GONZALEZ, MIGUEL ANGEL</usuario>
+				<tarifa name="Fijos">0.17</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0.81</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>10.73</total>
+			</entry>
+			<entry>
+				<numero>916249781</numero>  
+				<usuario>DESMET, KLAUS</usuario>
+				<tarifa name="Fijos">0.29</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0.88</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>8.93</total>
+			</entry>
+			<entry>
+				<numero>916249791</numero>  
+				<usuario>GONZALO MUÑOZ, JESUS</usuario>
+				<tarifa name="Fijos">0</tarifa>
+				<tarifa name="Móviles">0</tarifa>
+				<tarifa name="Internacionales">0</tarifa>
+				<tarifa name="8xx/9xx">0</tarifa>
+				<tarifa name="Resto">0</tarifa>
+				<tarifa name="Cuotas">7.76</tarifa>
+				<total>7.76</total>
+			</entry>					
+		</periodo>
+	</organica>
+	
+	<organica name="LG32 - DPTO DE MATEMÁTICAS">	
+	    </organica>
+	
+</fijo>
+
+
+</feed>

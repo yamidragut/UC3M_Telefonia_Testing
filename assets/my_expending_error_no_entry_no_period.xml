@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Mi consumo
+		parámetros en la url para obtener el xml:
+			- user(login del usuario): htttp://blablabla.com/blalbaba/mi_consumo&user=login(login del usuario) (mejor por petición post)
+	-->
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+<titulo>Mi Consumo Telefonia UC3M</titulo>
+<link href="http://www.uc3m.es" ></link>
+<login>esarasol</login> <!-- Para comprobar que es el usuario que necesitabamos -->	
+	
+<fijo>    
+	<periodo name="Noviembre 2012" total_periodo="23.28">
+		<entry>
+			<numero>915553653</numero>  
+			<tarifa name="Fijos">0</tarifa>
+			<tarifa name="Móviles">0</tarifa>
+			<tarifa name="Internacionales">0</tarifa>
+			<tarifa name="8xx/9xx">0</tarifa>
+			<tarifa name="Resto">0</tarifa>
+			<tarifa name="Cuotas">7.76</tarifa>
+			<total>7.76</total>
+		</entry>			
+		<entry>
+			<numero>915553736</numero>  
+			<tarifa name="Fijos">0</tarifa>
+			<tarifa name="Móviles">0</tarifa>
+			<tarifa name="Internacionales">0</tarifa>
+			<tarifa name="8xx/9xx">0</tarifa>
+			<tarifa name="Resto">0</tarifa>
+			<tarifa name="Cuotas">7.76</tarifa>
+			<total>7.76</total>
+		</entry>			
+	</periodo>
+	<periodo name="Octubre 2012" total_periodo="23.28">
+		<entry>
+			<numero>915553653</numero>  
+			<tarifa name="Fijos">0</tarifa>
+			<tarifa name="Móviles">0</tarifa>
+			<tarifa name="Internacionales">0</tarifa>
+			<tarifa name="8xx/9xx">0</tarifa>
+			<tarifa name="Resto">0</tarifa>
+			<tarifa name="Cuotas">7.76</tarifa>
+			<total>7.76</total>
+		</entry>			
+		<entry>
+			<numero>915553736</numero>  
+			<tarifa name="Fijos">0</tarifa>
+			<tarifa name="Móviles">0</tarifa>
+			<tarifa name="Internacionales">0</tarifa>
+			<tarifa name="8xx/9xx">0</tarifa>
+			<tarifa name="Resto">0</tarifa>
+			<tarifa name="Cuotas">7.76</tarifa>
+			<total>7.76</total>
+		</entry>			
+	</periodo>
+	<periodo name="Septiembre 2012" total_periodo="23.28">
+		
+	</periodo>
+</fijo>
+
+
+<movil>
+
+</movil>
+
+</feed>

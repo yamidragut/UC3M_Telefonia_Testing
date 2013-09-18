@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Mi Perfil
+		parámetros en la url para obtener el xml:
+			- user(login del usuario): htttp://blablabla.com/blalbaba/type=mi_perfil&user=login(login del usuario) (mejor por petición post)
+	-->
+	
+<feed xmlns="http://www.w3.org/2005/Atom">
+<titulo>Mis Tarifas Telefonia UC3M</titulo>
+<link href="http://www.uc3m.es" ></link>
+<login>esarasol</login> <!-- Para comprobar que es el usuario que necesitabamos -->
+
+
+<fijo> 
+    <entry num="915553653" voz="Nacional y Móviles">
+        <tarifa>---</tarifa>
+    </entry>
+    
+	<entry num="915553736" voz="Internacional" >
+	    <tarifa>---</tarifa>
+	</entry>
+</fijo>
+
+<movil>
+    <entry num="59086" voz="Nacional" datos="Datos desactivados">
+    	<tarifa>Plana Datos 1 GB</tarifa>
+		<tarifa>Mensual Voz Europa</tarifa>
+    </entry>
+	
+	<entry num="58642" voz="Internacional" datos="Roaming">
+	   	<tarifa>Plana Datos 1 GB</tarifa>
+		<tarifa>Bono Número Vip</tarifa>
+	</entry>
+	
+	<entry num="59748" voz="Nacional" datos="Datos desactivados">
+    	<tarifa>Plana Datos 1 GB</tarifa>
+    </entry>
+    
+	<entry num="59573" voz="Nacional" datos="Datos desactivados">
+    	<tarifa>Plana Datos 1 GB</tarifa>
+    </entry>
+	<entry num="55739" voz="Nacional" datos="Datos desactivados">
+    	<tarifa>Plana Datos 1 GB</tarifa>
+    </entry>
+    
+	<entry num="54946" voz="Nacional" datos="Datos desactivados">
+    	<tarifa>Plana Datos 1 GB</tarifa>
+    </entry>
+    
+	<entry num="59586" voz="Nacional" datos="Datos desactivados">
+    	<tarifa>Plana Datos 1 GB</tarifa>
+    </entry>
+</movil>
+
+</feed>

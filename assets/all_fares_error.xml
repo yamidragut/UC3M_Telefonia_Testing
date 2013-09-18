@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Todas las tarifas
+		parámetros en la url para obtener el xml:
+			- ninguno, igual para todos los usuarios
+	-->
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+<titulo>Tarifas Telefónicas Telefonia UC3M</titulo>
+
+<tarifas_voz>
+	<fijo>
+		<tarifa name="Fijo Corporativo">0</tarifa>
+		<tarifa name="Fijo No Corporativo">0</tarifa>
+		<tarifa name="Metropolitanas">1.236</tarifa>
+		<tarifa name="Provinciales">1.6883</tarifa>
+		<tarifa name="Interprovinciales">1.789</tarifa>
+		<tarifa name="Internacionales">6.509</tarifa>
+		<tarifa name="Móviles Corporativos">0</tarifa>
+		<tarifa name="Moviles No Corporativos">0.639</tarifa>
+	</fijo>
+
+</tarifas_voz>
+
+<tarifas_planas>
+	<fijo>
+		<tarifa name="Móviles Nacionales">39.90</tarifa>
+		<tarifa name="Fijos Internacionales">29.93</tarifa>
+		<tarifa name="Llamadas en Itinerancia">59.90</tarifa>
+	</fijo>
+	
+	<movil>
+		<voz_datos>
+			<tarifa name="500 Mb + voz ilimitada">23</tarifa>
+			<tarifa name="2 Gb + voz ilimitada">26.40</tarifa>
+			<tarifa name="10 Gb + voz ilimitada">34</tarifa>
+			<tarifa name="20 Gb + voz ilimitada">37</tarifa>
+		</voz_datos>
+		
+		<datos>
+			<tarifa name="500 Mb">8</tarifa>
+			<tarifa name="2 Gb">11.40</tarifa>
+		</datos>
+	</movil>
+	
+</tarifas_planas>
+
+<tarifas_roaming>
+    <voz>
+		<tarifa name="Ilimitada">10 €/mes</tarifa>
+	</voz>
+	
+    <!-- Importante poner las unidades en el caso de roaming ya que cambian para cada tarifa -->
+	<datos>
+		<tarifa name="Diaria Europa">1.99 €/día</tarifa>
+		<tarifa name="Mensual Europa">15 €/mes</tarifa>
+		<tarifa name="Diaria Mundial">7.99 €/día</tarifa>
+		<tarifa name="Mensual Mundial">50 €/mes</tarifa>
+	</datos>
+</tarifas_roaming>
+
+</feed>

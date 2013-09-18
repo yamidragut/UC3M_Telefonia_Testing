@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Mi consumo
+		parámetros en la url para obtener el xml:
+			- user(login del usuario): htttp://blablabla.com/blalbaba/mi_consumo&user=login(login del usuario) (mejor por petición post)
+	-->
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+<titulo>Mi Consumo Telefonia UC3M</titulo>
+<link href="http://www.uc3m.es" ></link>
+<login>esarasol</login> <!-- Para comprobar que es el usuario que necesitabamos -->	
+	
+<fijo>    
+	<periodo name="Noviembre 2012" total_periodo="23.28">
+		<entry>
+			<numero>915553653</numero>  
+			<tarifa name="Fijos">0</tarifa>
+			<tarifa name="Móviles">0</tarifa>
+			<tarifa name="Internacionales">0</tarifa>
+			<tarifa name="8xx/9xx">0</tarifa>
+			<tarifa name="Resto">0</tarifa>
+			<tarifa name="Cuotas">7.76</tarifa>
+			<total>7.76</total>
+		</entry>			
+		<entry>
+			<numero>915553736</numero>  
+			<tarifa name="Fijos">0</tarifa>
+			<tarifa name="Móviles">0</tarifa>
+			<tarifa name="Internacionales">0</tarifa>
+			<tarifa name="8xx/9xx">0</tarifa>
+			<tarifa name="Resto">0</tarifa>
+			<tarifa name="Cuotas">7.76</tarifa>
+			<total>7.76</total>
+		</entry>			
+	</periodo>
+	<periodo name="Octubre 2012" total_periodo="23.28">
+		<entry>
+			<numero>915553653</numero>  
+			<tarifa name="Fijos">0</tarifa>
+			<tarifa name="Móviles">0</tarifa>
+			<tarifa name="Internacionales">0</tarifa>
+			<tarifa name="8xx/9xx">0</tarifa>
+			<tarifa name="Resto">0</tarifa>
+			<tarifa name="Cuotas">7.76</tarifa>
+			<total>7.76</total>
+		</entry>			
+		<entry>
+			<numero>915553736</numero>  
+			<tarifa name="Fijos">0</tarifa>
+			<tarifa name="Móviles">0</tarifa>
+			<tarifa name="Internacionales">0</tarifa>
+			<tarifa name="8xx/9xx">0</tarifa>
+			<tarifa name="Resto">0</tarifa>
+			<tarifa name="Cuotas">7.76</tarifa>
+			<total>7.76</total>
+		</entry>			
+	</periodo>
+	<periodo name="Septiembre 2012" total_periodo="23.28">
+		<entry>
+			<numero>915553653</numero>  
+			<tarifa name="Fijos">0</tarifa>
+			<tarifa name="Móviles">0</tarifa>
+			<tarifa name="Internacionales">0</tarifa>
+			<tarifa name="8xx/9xx">0</tarifa>
+			<tarifa name="Resto">0</tarifa>
+			<tarifa name="Cuotas">7.76</tarifa>
+			<total>7.76</total>
+		</entry>			
+		<entry>
+			<numero>915553736</numero>  
+			<tarifa name="Fijos">0</tarifa>
+			<tarifa name="Móviles">0</tarifa>
+			<tarifa name="Internacionales">0</tarifa>
+			<tarifa name="8xx/9xx">0</tarifa>
+			<tarifa name="Resto">0</tarifa>
+			<tarifa name="Cuotas">7.76</tarifa>
+			<total>7.76</total>
+		</entry>		
+	</periodo>
+</fijo>
+
+
+<movil>
+	<periodo name="Noviembre 2012" total_periodo="49.93">
+		<entry>
+			<numero>635558703-1930</numero>
+			<tipo_linea>VOZ/DATOS: IPHONE 4 32 GB (1 GB IPHONE)</tipo_linea>
+			<tarifa name="Fijos">0</tarifa>
+			<tarifa name="Móviles">0</tarifa>
+			<tarifa name="Internacionales">0</tarifa>
+			<tarifa name="8xx/9xx">0</tarifa>
+			<tarifa name="Resto">0</tarifa>
+			<tarifa name="Datos">0</tarifa>
+			<tarifa name="Roaming">31.61</tarifa>
+			<tarifa name="Cuota">21.78</tarifa>
+			<tarifa name="Cuota Roaming">0</tarifa>
+			<tarifa name="Descuentos">-0.44</tarifa>
+			<total>48.95</total>
+		</entry>
+		<entry>
+			<numero>635556045-1291</numero>
+			<tipo_linea>EXTENSION FIJA</tipo_linea>
+			<tarifa name="Fijos">0</tarifa>
+			<tarifa name="Móviles">0.87</tarifa>
+			<tarifa name="Internacionales">0</tarifa>
+			<tarifa name="8xx/9xx">0</tarifa>
+			<tarifa name="Resto">0</tarifa>
+			<tarifa name="Datos">0</tarifa>
+			<tarifa name="Roaming">0</tarifa>
+			<tarifa name="Cuota">0</tarifa>
+			<tarifa name="Cuota Roaming">0</tarifa>
+			<tarifa name="Descuentos">-0.08</tarifa>
+			<total>0.91</total>
+		</entry>
+	</periodo>
+	<periodo name="Octubre 2012" total_periodo="64.93">
+		<entry>
+			<numero>635558703-1930</numero>
+			<tipo_linea>VOZ/DATOS: IPHONE 4 32 GB (1 GB IPHONE)</tipo_linea>
+			<tarifa name="Fijos">0</tarifa>
+			<tarifa name="Móviles">0</tarifa>
+			<tarifa name="Internacionales">0</tarifa>
+			<tarifa name="8xx/9xx">0</tarifa>
+			<tarifa name="Resto">0</tarifa>
+			<tarifa name="Datos">0</tarifa>
+			<tarifa name="Roaming">31.61</tarifa>
+			<tarifa name="Cuota">21.78</tarifa>
+			<tarifa name="Cuota Roaming">0</tarifa>
+			<tarifa name="Descuentos">-0.44</tarifa>
+			<total>48.95</total>
+		</entry>
+		<entry>
+			<numero>635556045-1291</numero>
+			<tipo_linea>EXTENSION FIJA</tipo_linea>
+			<tarifa name="Fijos">0</tarifa>
+			<tarifa name="Móviles">0.87</tarifa>
+			<tarifa name="Internacionales">0</tarifa>
+			<tarifa name="8xx/9xx">0</tarifa>
+			<tarifa name="Resto">0</tarifa>
+			<tarifa name="Datos">0</tarifa>
+			<tarifa name="Roaming">0</tarifa>
+			<tarifa name="Cuota">0</tarifa>
+			<tarifa name="Cuota Roaming">0</tarifa>
+			<tarifa name="Descuentos">-0.08</tarifa>
+			<total>0.91</total>
+		</entry>
+		<entry>
+			<numero>630303554-5733</numero>
+			<tipo_linea>DATOS: MODEM USB NOVATEL MC990D (1 GB)</tipo_linea>
+			<tarifa name="Fijos">0</tarifa>
+			<tarifa name="Móviles">0.00</tarifa>
+			<tarifa name="Internacionales">0</tarifa>
+			<tarifa name="8xx/9xx">0</tarifa>
+			<tarifa name="Resto">0</tarifa>
+			<tarifa name="Datos">0</tarifa>
+			<tarifa name="Roaming">0</tarifa>
+			<tarifa name="Cuota">15</tarifa>
+			<tarifa name="Cuota Roaming">0</tarifa>
+			<tarifa name="Descuentos">0.0</tarifa>
+			<total>15.00</total>
+		</entry>
+	</periodo>
+</movil>
+
+</feed>

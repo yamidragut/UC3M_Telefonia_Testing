@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Mi Perfil
+		parámetros en la url para obtener el xml:
+			- user(login del usuario): htttp://blablabla.com/blalbaba/type=mi_perfil&user=login(login del usuario) (mejor por petición post)
+	-->
+	
+<feed xmlns="http://www.w3.org/2005/Atom">
+<titulo>Mis Tarifas Telefonia UC3M</titulo>
+<link href="http://www.uc3m.es" ></link>
+<login>esarasol</login> <!-- Para comprobar que es el usuario que necesitabamos -->
+
+
+<fijo> 
+    <entry num="915553653" voz="Nacional y Móviles">
+    </entry>
+    
+	<entry num="915553736" voz="Internacional" >
+	    <tarifa>---</tarifa>
+	</entry>
+</fijo>
+
+
+</feed>
